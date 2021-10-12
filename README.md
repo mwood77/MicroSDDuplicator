@@ -12,3 +12,10 @@ Small shell script to duplicate micro SD cards.
         sh whateveryounamedyourfile.sh
         ```
 1. Answer the questions and wait. 
+1. Your image will be saved at the same location as the script.
+    - ex
+        ```
+        someFolder/
+            sh MicroSDDuplicator.sh
+            yournewimage.img
+        ```
